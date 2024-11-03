@@ -8,6 +8,7 @@ a{
     text-decoration: none;
 }
 div{
+    font-weight: bolder;
     border-radius: 5px;
     border: solid black 1px;
     width: 90px;
