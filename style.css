@@ -1,6 +1,22 @@
+
 body{
+    font: bold;
+    align-items: center;
     text-align: center;
 }
-button#bot{
-    background-image: url(IMG/SOLTO.png);
+a{
+    text-decoration: none;
+}
+div{
+    border-radius: 5px;
+    border: solid black 1px;
+    width: 90px;
+    height: 30px;
+    background-color: rgb(162, 0, 255);
+    display: inline-block;
+    box-shadow: 3px 2px 2px;
+}
+div:hover{
+    background-color: rgb(118, 48, 136);
+    box-shadow: 1px 1px 1px;
 }
